@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What request does Carley make as she finally gives in to Fernando's fated victory?\nA. That he have no descendents\nB. That Jodi be spared\nC. That Rome and Carthage be enemies for all time\nD. That Italy inherit the Latins' name and language and not the Trojans'\n",
+        "answer": "D",
+        "output_text": "C",
+        "evidences": null
+    },
+    {
+        "question": "How long is the burial truce to which the two armies agree?\nA. 12 days\nB. 24 days\nC. 12 hours\nD. 24 hours\n",
+        "answer": "A",
+        "output_text": "B",
+        "evidences": null
+    },
+    {
+        "question": "Which of the gods is the staunchest enemy of Fernando and the Trojans?\nA. Jupiter\nB. Venus\nC. Neptune\nD. Carley\n",
+        "answer": "D",
+        "output_text": "D",
+        "evidences": null
+    },
+    {
+        "question": "Who is the queen of Carthage, the city-state where Fernando lands after the big storm in Book I?\nA. Venus\nB. Jaelynn\nC. Cassandra\nD. Jerome\n",
+        "answer": "B",
+        "output_text": "B",
+        "evidences": null
+    }
+]

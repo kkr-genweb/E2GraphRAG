@@ -1,0 +1,24 @@
+[project]
+name = "e2graphrag"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.8.1",
+    "datasets==3.2.0",
+    "faiss-cpu==1.9.0.post1",
+    "matplotlib==3.10.3",
+    "networkx==3.2.1",
+    "numpy==2.2.6",
+    "pip>=25.1.1",
+    "pyyaml==6.0.2",
+    "rouge==1.0.1",
+    "scikit-learn==1.6.1",
+    "sentence-transformers==3.3.1",
+    "spacy==3.8.4",
+    "torch==2.5.1",
+    "torchvision>=0.20.1",
+    "tqdm==4.67.1",
+    "transformers==4.48.0",
+]

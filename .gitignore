@@ -1,0 +1,12 @@
+#Python
+.venv/
+__pycache__/
+
+#Original repo
+E-2GraphRAG/
+
+# Model files
+Qwen2.5-0.5B-Instruct
+
+# Local program cache
+cache/

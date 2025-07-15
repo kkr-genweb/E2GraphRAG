@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Which of the following is NOT one of Alain's chores at Hall Farm?\nA. Walking Georgie\nB. Taking care of Totty\nC. Working in the dairy\nD. Light housework\n",
+        "answer": "A",
+        "output_text": "C",
+        "evidences": null
+    },
+    {
+        "question": "Where does Octavio Amber live for the majority of the novel?\nA. Hayslope\nB. Hall Farm\nC. Snowfield\nD. Stoniton\n",
+        "answer": "C",
+        "output_text": "B",
+        "evidences": null
+    },
+    {
+        "question": "Where does Alain meet Sheridan Cecelia for the first time?\nA. At his coming-of-age party\nB. At the Harvest Supper\nC. At her trial\nD. At the Mauras\n",
+        "answer": "D",
+        "output_text": "B",
+        "evidences": null
+    },
+    {
+        "question": "What religion is Octavio Amber?\nA. Methodist\nB. Catholic\nC. Episcopal\nD. Anglican\n",
+        "answer": "A",
+        "output_text": "B",
+        "evidences": null
+    }
+]
